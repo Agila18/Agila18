@@ -123,14 +123,6 @@ This system-oriented perspective guides all of my projects.
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Agila18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agila18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
-
----
 
 ## Current Focus
 
@@ -146,4 +138,4 @@ This system-oriented perspective guides all of my projects.
 Tamil Nadu, India  
 akilatamilselvan28@gmail.com  
 
-LinkedIn: YOUR_LINKEDIN_LINK
+LinkedIn: https://www.linkedin.com/in/agila-tamil-selvan-859b82325/
