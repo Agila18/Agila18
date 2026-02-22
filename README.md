@@ -1,92 +1,149 @@
-<!-- ===================== PREMIUM DARK HEADER ===================== -->
+<!-- ================= Header ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63,100:24243e&height=220&section=header&text=Agila%20Tamil%20Selvan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43,100:2c5364&height=140&section=header&text=Agila%20Tamil%20Selvan&fontSize=32&fontColor=ffffff" />
 </p>
 
-<h3 align="center">
-AI Systems Builder • ML Engineer • GenAI Explorer
-</h3>
+<h3 align="center">AI Systems Engineer | Machine Learning | Generative AI</h3>
+
+---
+
+## Profile
+
+Artificial Intelligence and Data Science undergraduate focused on building production-oriented machine learning systems.
+
+My work spans the complete lifecycle of intelligent applications — from data processing and model development to backend integration and user-facing deployment.
+
+Primary areas of interest:
+- Machine Learning Systems
+- Generative AI and Retrieval-Augmented Generation (RAG)
+- Backend architecture using FastAPI
+- End-to-end AI application development
+
+---
+
+## Selected Projects
+
+### Coastal Risk Prediction System (Hydro4)
+Village-level 14-day forecasting system using machine learning and real-time telemetry data.
+
+Architecture:
+- ML-based risk modeling
+- FastAPI backend
+- React frontend
+- Simulation-based emergency planning
+
+---
+
+### Smart Hospital Management System
+Desktop-based healthcare assistance system.
+
+Capabilities:
+- Patient data search
+- Doctor and pharmacy recommendation
+- Medical data visualization
+
+Technologies: Python, Tkinter, Matplotlib
+
+---
+
+### Cardiovascular Disease Prediction
+Machine learning pipeline for health risk analysis.
+
+Includes:
+- Data preprocessing
+- Feature engineering
+- Model training and evaluation
+
+Technologies: Scikit-learn, Pandas, NumPy
+
+---
+
+### Sponsorship Management Platform
+Full-stack RESTful application for managing sponsors, contracts, and payments.
+
+Technologies:
+- FastAPI
+- SQLite
+- Swagger API documentation
+
+---
+
+## Technical Stack
+
+**Programming**
+- Python
+- C
+
+**Machine Learning**
+- Scikit-learn
+- NumPy
+- Pandas
+- Matplotlib
+
+**Backend**
+- FastAPI
+- REST API design
+
+**Frontend**
+- React
+- HTML
+- CSS
+- JavaScript
+
+**Databases**
+- MySQL
+- SQLite
+- ChromaDB (Vector storage)
+
+**Version Control**
+- Git
+- GitHub
+
+---
+
+## Engineering Approach
+
+I focus on building systems rather than isolated models.
+
+My development workflow typically follows:
+
+Data → Processing → Model Development → API Integration → Interface → Deployment
+
+This system-oriented perspective guides all of my projects.
+
+---
+
+## Achievements
+
+- Winner – AI Art Gallery 2K25  
+- Runner Up – ACM Code Challenge  
+- Most Scalable Idea – Cryptera Hackathon  
+- CodeChef Gold Badge (500+ problems solved)
+
+---
+
+## GitHub Analytics
 
 <p align="center">
-Building Intelligent Systems from Data → Deployment → Impact
+  <img src="https://github-readme-stats.vercel.app/api?username=Agila18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agila18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
 ---
 
-## 🧠 Who Am I?
+## Current Focus
 
-I design and engineer intelligent systems that solve real-world problems —  
-from healthcare prediction engines to coastal risk forecasting platforms.
-
-I don’t just train models.  
-I architect pipelines. Deploy APIs. Build interfaces. Deliver impact.
-
-Currently focused on:
-
-- 🧠 Machine Learning Systems  
-- 🤖 Generative AI & RAG Pipelines  
-- ⚡ FastAPI-based AI Backends  
-- 🌐 End-to-End AI Web Applications  
+- Retrieval-Augmented Generation optimization
+- LLM application architecture
+- Scalable ML systems
+- Model monitoring and evaluation
 
 ---
 
-## 🚀 Featured Systems
+## Contact
 
-### 🌊 Coastal Risk Prediction Engine (Hydro4)
-ML-powered 14-day village-level coastal forecasting system  
-• React + FastAPI architecture  
-• Real-time telemetry integration  
-• Emergency risk simulation  
+Tamil Nadu, India  
+akilatamilselvan28@gmail.com  
 
----
-
-### 🏥 Smart Hospital Intelligence System
-Python-based healthcare assistant  
-• Patient record search  
-• Doctor & pharmacy recommendations  
-• Medical data visualization  
-
----
-
-### ❤️ Cardiovascular Risk Prediction
-Complete ML pipeline including:
-• Data preprocessing  
-• Feature engineering  
-• Model evaluation  
-
----
-
-### 💼 Full Stack Sponsorship Platform
-REST-driven backend managing:
-• Sponsors  
-• Contracts  
-• Payments  
-• Match allocations  
-
-Built using FastAPI + SQLite + Swagger UI
-
----
-
-## 🛠 Technical Arsenal
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi">
-<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react">
-<img src="https://img.shields.io/badge/ScikitLearn-111111?style=for-the-badge&logo=scikit-learn">
-<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql">
-<img src="https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite">
-<img src="https://img.shields.io/badge/ChromaDB-111111?style=for-the-badge">
-<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git">
-
-</p>
-
----
-
-## 📈 Engineering Philosophy
-
-AI is not just about models.
-
-It’s about building usable systems.
+LinkedIn: YOUR_LINKEDIN_LINK
